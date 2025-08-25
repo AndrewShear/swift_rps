@@ -1,0 +1,12 @@
+{
+  "name": "Swift Dev Container",
+  "image": "swift:6.1.2",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "sswg.swift-lang",
+        "vadimcn.vscode-lldb"
+      ]
+    }
+  }
+}
